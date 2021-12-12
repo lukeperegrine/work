@@ -1,4 +1,4 @@
-woaaodkwawawdsdefine([
+fine([
     'require',
     'sdfsdf'
 ], function(require, factory) {
