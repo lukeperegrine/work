@@ -1,4 +1,4 @@
-woaaodkwawawdsdefine([
+somethingDifferent([
     'require',
     'sdfsdf'
 ], function(require, factory) {
